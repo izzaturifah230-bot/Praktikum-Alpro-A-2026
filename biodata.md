@@ -1,3 +1,3 @@
-nama : izzatur rif'ah
-nim : 25071104277
-prodi : s1 teknik informatika
+Nama : Izzatur Rif'ah
+Nim : 25071104277
+Prodi : Teknik Informatika
